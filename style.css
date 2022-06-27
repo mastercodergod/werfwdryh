@@ -1,0 +1,50 @@
+p {
+
+    background-color:crimson;
+    border-color: black;
+    border-width: 1px;
+    border-style:inset;
+    border-radius: 20px;
+    color: white;
+    
+}
+
+body {
+
+    background-color:coral;
+}
+
+.the_obs {
+
+    font-family: 'Blaka', cursive;
+}
+
+#result {
+    border-color: crimson;
+    border-style: dotted;
+    height: 400px;
+    width: 400px;
+}
+
+#result:hover {
+
+    box-shadow: 0 6px 8px 0 rgba(4,4,4,0.4);
+}
+
+button:hover {
+
+    box-shadow: 0 6px 8px 0 rgba(4,4,4,0.4);
+}
+
+.the_obs:hover {
+
+color: orange;
+}
+
+#camera {
+
+    align-self: right;
+    border-style: dotted;
+    height: 400px;
+    width: 400px;
+}
